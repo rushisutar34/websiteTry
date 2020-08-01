@@ -1,0 +1,58 @@
+
+body {
+
+  text-align: justify;
+
+  background-color: #4caf50;
+
+}
+.navbar-content{
+font-size: 1rem;
+line-height: 1.5;
+font-weight:bold;
+}
+
+.container{
+  padding: 1% 15%;
+}
+
+.block1{
+border: 2px solid yellow;
+border-radius: 10%;
+}
+
+a.block1{
+border: 10px solid black;
+border-radius: 100%;
+}
+
+.rowinmiddle{
+  margin-top: 2%;
+}
+.section-menubar{
+  background-color: #a5d6a7;
+  color: #fff;
+}
+.colored-section {
+  background-color: #4caf50;
+  color: #fff;
+}
+.inmiddle{
+  margin: 0 10%;
+
+  color: #fff;
+}
+.inmiddle2{
+  display: block;
+}
+
+.company-logo{
+  border-radius: 100%;
+  width:25%;
+  height:auto;
+  align-content: center
+}
+.navbar-brand{
+  width: 45%;
+  height:auto;
+}
